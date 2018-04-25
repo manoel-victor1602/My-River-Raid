@@ -1,0 +1,9 @@
+Dia 01 (23/04):
+
+Foi procurado mais informações sobre o jogo, a fim de descobrir mais sobre sua mecânica e jogabilidade, a partir das pesquisados foram encontrados um link para um video do youtube onde um jogador completa o jogo (3), um tutorial de como construir um River Raid para Web (4) e um link do jogo online (5).
+
+Dia 02 (24/04):
+
+Foi feito a primeira versão de um Diagrama de Classes, nesta versão possui apenas a classe Jogador, a classe Inimigo com suas especializações (Ponte, Posto, Avião, Barco e Jato) e a classe Cenário com suas especializações (Posto, Terra, Rio).
+
+obs: Neste dia foi pensado em escrever um relatório em bloco de notas com a descrição das atividades realizadas no dia. 
