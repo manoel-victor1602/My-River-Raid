@@ -6,4 +6,12 @@ Dia 02 (24/04):
 
 Foi feito a primeira versão de um Diagrama de Classes, nesta versão possui apenas a classe Jogador, a classe Inimigo com suas especializações (Ponte, Posto, Avião, Barco e Jato) e a classe Cenário com suas especializações (Posto, Terra, Rio).
 
-obs: Neste dia foi pensado em escrever um relatório em bloco de notas com a descrição das atividades realizadas no dia. 
+obs: Neste dia foi pensado em escrever um relatório em bloco de notas com a descrição das atividades realizadas no dia.
+
+Dia 3 (25/04)
+
+Diagrama de classes foi modificado para a versão 0.2, foi incluido a classe Tiro, Instruções, Recordes e Pontuaçao.
+
+Documento de Restrições e Documento de Requisitos foram criados e adicionados no repositório.
+
+Foi desenhado o Diagrama de Casos de Uso, com o ator Jogador e os Casos de Uso "Visualizar Recordes", "Visualizar Instruções" e "Jogar o Jogo". Em paralelo o Documento de Caso de Uso foi escrito e já constam no repositório.
