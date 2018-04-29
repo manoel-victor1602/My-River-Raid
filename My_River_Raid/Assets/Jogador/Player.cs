@@ -18,10 +18,10 @@ public class Player : MonoBehaviour
     void Update()
     {
         Debug.Log(animador.GetBool("voando_esquerda"));
-        while(Input.GetKey(KeyCode.LeftArrow)){
+        if(Input.GetKeyDown(KeyCode.LeftArrow)){
             voandoEsquerda();
         }
-        while(Input.GetKey(KeyCode.RightArrow)){
+        else if(Input.GetKeyDown(KeyCode.RightArrow)){
             voandoDireita();
         }
         
