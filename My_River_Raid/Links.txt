@@ -1,0 +1,14 @@
+﻿1 - Sobre o jogo: https://pt.wikipedia.org/wiki/River_Raid
+2 - Gameplay: https://www.youtube.com/watch?v=pmPjsBDN9Xw
+3 - TAS: River Raid "Fastest Completion" by Lord Tom : https://www.youtube.com/watch?v=GXEmPenZN0g
+4 - Construindo um Jogo para a Web – River Raid: http://docente.lages.ifsc.edu.br/vilson.junior/MaterialDidatico/pi/2015_02/05_Construindo_RiverRaid.pdf
+5 - River Raid online: http://www.portalatari.com.br/river_raid_1982_activision
+6 - Sprites: https://www.spriters-resource.com/atari/riverraid/sheet/4176/
+7 - Mapa: https://maps.speccy.cz/map.php?id=RiverRaid
+8 - Live Session: Making A Flappy Bird Style Game
+	https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/recycling-obstacles-object-pooling?playlist=17093
+	https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/adding-column-obstacles?playlist=17093
+	https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/adding-game-controller?playlist=17093
+	https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/scrolling-repeating-backgrounds?playlist=17093
+9 - https://www.youtube.com/watch?v=SAllyP_W80Q&t=765s&list=WL&index=1
+10 - https://www.youtube.com/watch?v=N4VWznbpGmI&t=1s&list=WL&index=2
