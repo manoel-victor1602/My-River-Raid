@@ -23,8 +23,8 @@ GameObject:
   - component: {fileID: 95162814449160582}
   - component: {fileID: 50023062232649874}
   - component: {fileID: 61627121984099408}
-  - component: {fileID: 114000424143389886}
   - component: {fileID: 114432438884220756}
+  - component: {fileID: 114197213815672852}
   m_Layer: 0
   m_Name: Helicoptero
   m_TagString: Untagged
@@ -39,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1816911718504264}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.9885116, y: -6.02594, z: 0}
+  m_LocalPosition: {x: -19.56, y: -6.02594, z: 0}
   m_LocalScale: {x: 6, y: 6, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -99,7 +99,7 @@ Animator:
   m_GameObject: {fileID: 1816911718504264}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 5a2c3a5b62307f948bf5ba2741059fe5, type: 2}
+  m_Controller: {fileID: 9100000, guid: 9da7b69dfc54a58499a8ea5eec3f0c76, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -107,7 +107,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114000424143389886
+--- !u!114 &114197213815672852
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}

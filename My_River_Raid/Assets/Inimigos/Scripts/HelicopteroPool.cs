@@ -6,12 +6,12 @@ public class HelicopteroPool : MonoBehaviour {
 
     public int helicopteroPoolSize = 5;
     public GameObject helicopteroPrefab;
-    public float freqSpawn = 2f;
+    public float freqSpawn = 3f;
     public float helicopteroMin = -5f;
     public float helicopteroMax = 5f;
 
     private GameObject[] helicopteros;
-    private Vector2 objectPoolPosition = new Vector2(-15f, -25f);
+    private Vector2 objectPoolPosition = new Vector2(-5f, -25f);
     private float helicopteroTimeSpawn;
     private int currentHelicoptero = 0;
     private float spawnXPosition;

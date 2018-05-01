@@ -13,4 +13,9 @@ public class Tiro : MonoBehaviour {
         rbTiro.velocity = velocidade;
         Destroy(gameObject, 3f);
 	}
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Destroy(gameObject);
+    }
 }
