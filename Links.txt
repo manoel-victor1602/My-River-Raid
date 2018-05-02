@@ -12,3 +12,4 @@
 	https://unity3d.com/pt/learn/tutorials/topics/2d-game-creation/scrolling-repeating-backgrounds?playlist=17093
 9 - https://www.youtube.com/watch?v=SAllyP_W80Q&t=765s&list=WL&index=1
 10 - https://www.youtube.com/watch?v=N4VWznbpGmI&t=1s&list=WL&index=2
+11 - https://www.youtube.com/watch?v=5d-Mcj_YbUo

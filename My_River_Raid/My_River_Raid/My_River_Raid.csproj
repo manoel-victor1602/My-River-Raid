@@ -236,14 +236,15 @@
   <ItemGroup>
     <Compile Include="Assets\Cenario\Scripts\movimenta.cs" />
     <Compile Include="Assets\Cenario\Scripts\repetirBackground.cs" />
-    <Compile Include="Assets\combustivel.cs" />
-    <Compile Include="Assets\Game_Control.cs" />
+    <Compile Include="Assets\Inimigos\Scripts\combustivel.cs" />
     <Compile Include="Assets\Inimigos\Scripts\Inimigo.cs" />
     <Compile Include="Assets\Inimigos\Scripts\voar.cs" />
     <Compile Include="Assets\Jogador\Player.cs" />
     <Compile Include="Assets\Jogador\Tiro.cs" />
-    <Compile Include="Assets\ObjectPool.cs" />
-    <Compile Include="Assets\reposiciona.cs" />
+    <Compile Include="Assets\Scripts\carregaTela.cs" />
+    <Compile Include="Assets\Scripts\Game_Control.cs" />
+    <Compile Include="Assets\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Tanque\Script\reposiciona.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

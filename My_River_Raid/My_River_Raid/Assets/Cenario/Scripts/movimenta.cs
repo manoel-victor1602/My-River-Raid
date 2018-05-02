@@ -9,7 +9,7 @@ public class movimenta : MonoBehaviour {
 	// Use this for initialization
 	void Start() {        
             rb2d = GetComponent<Rigidbody2D>();
-            rb2d.velocity = new Vector2(0, -5f);
+            rb2d.velocity = new Vector2(0, -3f);
 	}
 	
 	// Update is called once per frame

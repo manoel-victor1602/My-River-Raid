@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu_Principal.unity
+    guid: 3422d78985d6ad447a20798998ed0d6e
+  - enabled: 1
+    path: Assets/Tela_Jogo.unity
+    guid: 90aab8c0dc788bb48a1a934616c31ca7
+  - enabled: 1
+    path: Assets/Tela_Instrucoes.unity
+    guid: c6e2fb50637b6144f8254781f6e1faad
